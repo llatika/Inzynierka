@@ -1,0 +1,4 @@
+SANITY_VERSION 1
+TMPDIR /home/zusak/Inzynierka/poky/build-rpi/tmp
+SSTATE_DIR /home/zusak/Inzynierka/poky/build-rpi/sstate-cache
+NATIVELSBSTRING ubuntu-18.04
